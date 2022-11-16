@@ -1,5 +1,5 @@
 import java.io.*;
-public class Hello {
+public class Mayan {
 	public static void main(String[] args) {
 		System.out.println("Mayan!");
 	}
